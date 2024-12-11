@@ -5,6 +5,9 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "CV"
+    url: /files/Kurt_Farrell_CV.pdf
+    
   - title: "Publications"
     url: /publications/
 
@@ -12,16 +15,7 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
+  - title: "People"
     url: /markdown/
