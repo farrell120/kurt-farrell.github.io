@@ -12,9 +12,9 @@ title                    : "Kurt Farrell"
 title_separator          : "-"
 name                     : &name "Kurt Farrell"
 description              : &description "personal description"
-url                      : https://kurt.farrell.org
+url                      : https://center-for-computational-neuropathology.github.io/kurtfarrell.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "farrell120/kurt-farrell.github.io"
+repository               : "center-for-computational-neuropathology.github.io/kurtfarrell.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
