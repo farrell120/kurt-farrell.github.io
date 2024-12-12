@@ -12,7 +12,7 @@ title                    : "Kurt Farrell"
 title_separator          : "-"
 name                     : &name "Kurt Farrell"
 description              : &description "personal description"
-url                      : https://github.com/farrell120/kurt-farrell.github.io
+url                      : https://kurt.farrell.org
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "farrell120/kurt-farrell.github.io"
 
